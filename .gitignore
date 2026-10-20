@@ -6,7 +6,6 @@ __pycache__/
 sure_rag/verifier_model/
 sure_rag/aggregator.joblib
 paper
-results
 
 evidebt_rag/verifier_model_roberta_base_backup/
 train.log

@@ -1,0 +1,13 @@
+{
+  "generator": "ollama",
+  "k": 5,
+  "n": 200,
+  "coverage": 0.26,
+  "em_overall": 0.12,
+  "f1_overall": 0.1385575335397317,
+  "em_answered": 0.46153846153846156,
+  "f1_answered": 0.5329135905374296,
+  "avg_steps": 1.6,
+  "avg_retrieve": 1.545,
+  "avg_verify": 0.055
+}
