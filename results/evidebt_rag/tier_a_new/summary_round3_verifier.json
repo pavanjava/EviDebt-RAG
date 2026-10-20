@@ -1,0 +1,13 @@
+{
+  "n": 200,
+  "ordering_accuracy": 0.79,
+  "auroc_full_vs_nonfull": 0.866825,
+  "refuted_contradiction_rate": 0.61,
+  "mean_d_tilde": {
+    "Full": 0.3829628733915558,
+    "Partial": 0.4523394983614529,
+    "Hard-insufficient": 0.5181562246060075,
+    "Irrelevant": 0.5878563785120147,
+    "Refuted": 0.6594440464412853
+  }
+}

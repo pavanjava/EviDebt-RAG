@@ -1,0 +1,10 @@
+{
+  "generator": "ollama",
+  "k0": 10,
+  "n": 200,
+  "coverage": 0.865,
+  "em_overall": 0.365,
+  "f1_overall": 0.4577240537240537,
+  "em_answered": 0.42196531791907516,
+  "f1_answered": 0.5291607557503512
+}

@@ -1,0 +1,13 @@
+{
+  "generator": "openai",
+  "k": 5,
+  "n": 200,
+  "coverage": 0.105,
+  "em_overall": 0.07,
+  "f1_overall": 0.0801978021978022,
+  "em_answered": 0.6666666666666666,
+  "f1_answered": 0.763788592360021,
+  "avg_steps": 1.735,
+  "avg_retrieve": 1.71,
+  "avg_verify": 0.025
+}
